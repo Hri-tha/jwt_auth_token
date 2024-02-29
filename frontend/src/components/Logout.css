@@ -1,0 +1,22 @@
+/* Logout.css */
+
+.logout-container {
+    max-width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .logout-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #dc3545; /* Red color */
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .logout-container button:hover {
+    background-color: #c82333; /* Darker red color on hover */
+  }
+  
